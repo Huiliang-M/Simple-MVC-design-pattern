@@ -1,2 +1,0 @@
-javac PaSkCode/*.java
-java PaSkCode/ParticleSkeleton data.in

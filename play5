@@ -1,0 +1,3 @@
+javac 5Balls/*.java
+//argc[0] = "data.in" which is the input file of 5 balls' initil data.
+java 5Balls/5ball data.in
