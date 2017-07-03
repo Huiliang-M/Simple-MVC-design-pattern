@@ -8,6 +8,5 @@ dataBig.in is another data of 7 balls which has faster speed. You can change the
 
 # Result 
 <br/>
-<img = "550" src = "https://github.com/Huiliang-M/Simple-MVC-design-pattern/blob/master/Screen%20Shot%202017-07-02%20at%208.24.16%20PM.png
-" />
+<img = "550" src = "https://github.com/Huiliang-M/Simple-MVC-design-pattern/blob/master/Screen%20Shot%202017-0702%20at%208.24.16%20PM.png" />
 <br/>
